@@ -1,0 +1,7 @@
+name: Xani4kaAddonElytra
+version: '${project.version}'
+main: org.xani4kaaddonelytra.Xani4kaAddonElytra
+api-version: '1.16'
+depend: [WorldEdit, WorldGuard]
+author: Xani4ka
+description: WorldGuard addon that adds elytra-block flag to control elytra usage in regions

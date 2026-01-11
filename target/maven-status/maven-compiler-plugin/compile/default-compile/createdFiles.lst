@@ -1,0 +1,7 @@
+org\xani4kaaddonelytra\listeners\ElytraEquipListener.class
+org\xani4kaaddonelytra\utils\RegionUtil.class
+org\xani4kaaddonelytra\utils\MessageUtil.class
+org\xani4kaaddonelytra\listeners\ElytraGlideListener.class
+org\xani4kaaddonelytra\listeners\ElytraMoveListener.class
+org\xani4kaaddonelytra\Xani4kaAddonElytra.class
+org\xani4kaaddonelytra\flags\ElytraBlockFlag.class

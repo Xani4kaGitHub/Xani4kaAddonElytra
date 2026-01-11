@@ -1,0 +1,6 @@
+messages:
+  elytra-blocked: "&cЭлитры заблокированы в этом регионе!"
+  elytra-equip-blocked: "&cВы не можете надеть элитры в этом регионе!"
+  elytra-use-blocked: "&cИспользование элитр заблокировано в этом регионе!"
+
+debug: false
